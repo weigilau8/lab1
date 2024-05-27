@@ -1,10 +1,15 @@
+/* 
+    CSS for Today's Chuckle
+    Created by: Luigi
+*/
+
+body {
+    font-family: Georgia, serif;
+}
+
 h1, h2 {
     color:maroon; 
     font-family: Impact, sans-serif;
-}
-
-body {
-    font-family: Georgia, serif 
 }
 
 .container {
