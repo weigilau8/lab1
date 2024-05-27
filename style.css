@@ -1,0 +1,18 @@
+.container {
+    margin: 0 auto;
+    width: 500px;
+  }
+  
+  h1, h2 {
+    color:maroon; 
+    font-family: Impact, sans-serif;
+  }
+  
+  .text-center{ 
+    text-align: center;
+  }
+  
+  .text-small {
+    font-size: 12px;
+  }
+  
